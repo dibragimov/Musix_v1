@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Messages>
+
+<Message id="MGTestMsg" title="Test Message" text="Hello from Musix Messages">
+<buttons>
+<button   code="MGButtonCodeOK"  name="OK"  />
+<button   code="MGButtonCodeCancel"  name="Cancel"  />
+</buttons>
+</Message>
+
+<Message id="MSG_DEFAULT" title="שגיאה" text=". לפרטים נוספים אנא פנה ל - 160* בשיחת חינם מהפלאפון">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_DIFFERENT_SIMCARD" title="החלפת SIM" text="שים לב! הפעלת אפליקציית musix , לאחר החלפת כרטיס SIM , תגרום למחיקת הקבצים השמורים בתיקיית musix בכרטיס הזיכרון של המכשיר ותיצור תיקייה ריקה לאחסון קבצי musix חדשים.רשימות השירים המשויכות לכרטיס ה – SIM  הקודם ב&quot;מוסיקה שלי&quot; לא תמחקנה. האם ברצונך להמשיך?">
+<buttons>
+<button   code="MGButtonCodeOK"  name="כן"  />
+<button   code="MGButtonCodeCancel"  name="לא"  />
+</buttons>
+</Message>
+
+<Message id="MSG_REGISTRATION_FAILED" title="שגיאת הרשמה" text="מנוי יקר, אינך יכול להצטרף לשירות. לפרטים נוספים אנא פנה ל - 160* בשיחת חינם מהפלאפון.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_REGISTRATION_SUCCESS" title="ההרשמה הצליחה" text=" האזנה נעימה!">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+
+<Message id="MSG_ACCEPT_TERMS" title="ברוכים הבאים" text="לצפייה בתנאי השירות המעודכנים בכל עת, לחץ על כפתור תנאי השירות במסך הראשי. האזנה נעימה!">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_FIRST_TIME" title="ברוכים הבאים" text="יש לצפות בתנאי השירות המעודכנים נכון למועד זה,לצפייה לחץ על כפתור תנאי השירות במסך הראשי. האזנה נעימה!">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+ <Message id="MSG_USER_BLOCKED" title="שגיאה" text="מנוי יקר, אינך יכול להצטרף לשירות. לפרטים נוספים אנא פנה ל - 160* בשיחת חינם מהפלאפון">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_FIRST_TIME_REGISTERED" title="הרשמה" text="">
+<buttons>
+<button   code="MGButtonCodeOK"  name="הרשמה"  />
+<button   code="MGButtonCodeNext"  name="תנאי שירות"  />
+</buttons>
+</Message>
+	
+	
+<Message id="MSG_COPYRIGHT_DELETION" title="הודעת מערכת" text="שירים הוסרו מהשירות עקב בקשת בעלי זכויות. ">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_SONGS_ADDED_TO_MYMUSIC" title="" text="השירים התווספו בהצלחה למוסיקה שלי. אתם מוזמנים להוסיף עוד מוסיקה.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_BEFORE_DELETE" title="" text="האם אתה בטוח שברצונך למחוק?">
+<buttons>
+<button   code="MGButtonCodeOK"  name="כן"  />
+<button   code="MGButtonCodeCancel"  name="לא"  />
+</buttons>
+</Message>
+
+
+
+<Message id="MSG_SONG_ADDED_TO_PLAYLIST" title="" text="השיר התווסף לPlaylist2go">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+
+<Message id="MSG_INSUFFICIENT_SPACE" title="" text="זכרון המכשיר מלא ועל כן הורדת השיר תופסק. להוספת שירים חדשים לזיכרון המכשיר, אנא מחק שירים מהזיכרון. באפשרותך להמשיך להאזין לשירים שמצויים בזיכרון המכשיר.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_JOIN" title="MSG_JOIN" text="בואו הירשמו לmusix ותיהנו מחוויית מוסיקה אינסופית. אלפי אמנים, אלבומים, פלייליסטים ושירים ממתינים שתאזינו להם ללא הגבלה הן במכשיר הפלאפון והן באתר www.musix.co.il.
+לעלויות ותנאי השירות לחצו על תנאי השירות
+לאישור התנאים והצטרפות, ליחצו על הרשמה
+האזנה מהנה!">
+<buttons>
+<button   code="MGButtonCodeOK"  name="כן"  />
+<button   code="MGButtonCodeCancel"  name="לא"  />
+</buttons>
+</Message>
+
+
+
+<Message id="MSG_UPGRADE_NONMANDATORY" title="גירסאה חדשה" text="לקוח יקר, קיימת גרסה חדשה ומעודכנת של MusiX. האם ברצונך לעדכן את הגרסא עכשיו? כן/לא לקוחות השירות -  השירים שלכם ישמרו.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="כן"  />
+<button   code="MGButtonCodeCancel"  name="לא"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_UPGRADE_MANDATORY" title="גרסה חדשה" text="לקוח יקר, קיימת גרסה חדשה ומעודכנת של MusiX . לעדכון הגרסה לחץ אישור . לקוחות השירות – השירים שלכם ישמרו.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_UNREGISTERED_ROAMING" title="נדידה" text="אין אפשרות להירשם ל MusiX בעת השהות  בחו''ל . אתה מוזמן להצטרף לשירות בזמן שהותך בארץ">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_ROAMING" title="נדידה" text="בזמן שהותך   בחו''ל   השימוש ב MusiX יאפשר לך להאזין רק לשירים שמצויים בזיכרון המכשיר. שים לב כי כל הפעלה של היישום מחו''ל   במצב נדידה (roaming) כרוכה בתשלום עבור תקשורת נתונים, תשלום אשר נקבע גם על בסיס תעריף ספק התקשורת המקומי. לפיכך, במצב זה עלויות אלה עלולות להיות גבוהות ביותר.
+">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_GRACE_EXPIRED_NO_3GCONNECTION" title="שגיאת רשת" text="הנך נמצא באזור ללא קליטה. על מנת להשתמש בשירות עליך להתחבר לשירות באזור עם קליטה">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_NO_3GCONNECTION" title="שגיאת רשת" text="הנך נמצא באזור ללא קליטה. באפשרותך להאזין רק לשירים שמצויים בזיכרון המכשיר">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_UNREGISTERED_NO_3GCONNECTION" title="שגיאת רשת" text="הנך נמצא באזור ללא קליטה אנא נסה להתחבר לשירות שנית כשתמצא באזור עם קליטה.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_WIFI_CONNECTION" title="הודעת מערכת" text="שלום, כדי להשתמש בשירות MUSIX יש לעבור למצב 3G">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_TEST_BUY_ALBUMS" title="שירים נוספו" text="על מנת לראות את השירים החדשים, יש להפעיל מחדש את האפליקציה.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_TEST_BUY_ALBUMS_ERROR" title="שגיאה" text="שגיאה באת הוספת שירים, נא נסה שנית.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_DELETE_SONG_FAILED" title="שגיאה" text="מחיקת השיר לא הצליחה. אנא נסה שנית מאוחר יותר ">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_ADD_SONG_FAILED" title="שגיאה" text="הורדת השיר נכשלה, אנא נסה מאוחר יותר.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_ERROR_DOWNLOADING" title="שגיאה" text="הורדת השיר נכשלה, אנא נסה מאוחר יותר.">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_SEARCH_NO_ITEMS_FOUNDS" title="חיפוש" text="לא נמצאו תוצאות">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_SEARCH_QUERY_TOO_SHORT" title="שגיאה" text="יש להכניס לפחות שני תווים לחיפוש">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+	
+<Message id="MSG_WIFI_CONNECTION_CATALOG" title="שגיאת רשת" text="על מנת להכנס להורדת מוסיקה, יש לעבור למצב 3G">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_WIFI_CONNECTION_DOWNLOAD" title="שגיאת רשת" text="על מנת להוריד את השיר למכשיר יש לעבור למצב 3G">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+
+<Message id="MSG_WIFI_CONNECTION_GRACE_EXPIRED" title="שגיאת רשת" text="על מנת לחדש את השימוש ב-Musix יש להתחבר באופן חד פעמי במצב 3G">
+<buttons>
+<button   code="MGButtonCodeOK"  name="אישור"  />
+</buttons>
+</Message>
+
+<Message id="MSG_NO_SDCARD" title="החלפת SIM" text="שים לב! הפעלת אפליקציית musix , לאחר החלפת כרטיס SIM , תגרום למחיקת הקבצים השמורים בתיקיית musix בכרטיס הזיכרון של המכשיר ותיצור תיקייה ריקה לאחסון קבצי musix חדשים.רשימות השירים המשויכות לכרטיס ה – SIM  הקודם ב&quot;מוסיקה שלי&quot; לא תמחקנה. האם ברצונך להמשיך?">
+<buttons>
+<button   code="MGButtonCodeOK"  name="כן"  />
+</buttons>
+</Message>
+
+</Messages>
+

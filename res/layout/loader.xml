@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="fill_parent" android:layout_width="fill_parent" android:background="@drawable/splash_background_main" android:orientation="vertical" android:gravity="center_vertical">
+
+
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/linearSyncAnchor" android:minHeight="3dip" android:minWidth="3dip"></LinearLayout>
+
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical"><ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/logo_musix_tos" android:layout_gravity="right" android:layout_marginRight="5dip"></ImageView>
+		
+
+<LinearLayout android:gravity="center" android:layout_height="fill_parent" android:layout_width="fill_parent"><ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/prgrsBrLoader" android:indeterminate="true" android:indeterminateBehavior="repeat" android:indeterminateOnly="true" android:maxHeight="95dip" android:minHeight="95dip" android:maxWidth="86dip" android:minWidth="86dip" android:indeterminateDrawable="@drawable/progress_indeterminate"></ProgressBar></LinearLayout>
+</LinearLayout>
+
+
+</LinearLayout>

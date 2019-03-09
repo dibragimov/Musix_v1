@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="wrap_content" android:layout_width="fill_parent" android:minHeight="59dip">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_vertical" android:id="@+id/txtMyMusicPlaylistName" android:text="playlist" android:layout_marginLeft="15dip" android:layout_weight="1"></TextView>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10dip" android:background="@drawable/right_arrow" android:layout_gravity="center_vertical"></ImageView>
+	<ImageView 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/imgMyMusicPlaylistCover" 
+		android:layout_gravity="center_vertical" android:layout_marginRight="10dip"/>
+</LinearLayout>

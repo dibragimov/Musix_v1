@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:layout_height="wrap_content" 
+	android:layout_width="fill_parent" 
+	android:orientation="horizontal" android:minHeight="59dip">
+		<TextView 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:text="header" 
+			android:id="@+id/txtMyMusicSongRowTitle" 
+			android:textColor="#ffa7a7a7" android:layout_gravity="center" android:layout_marginLeft="10dip"/>
+		<ImageView 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:layout_marginRight="10dip" 
+			android:layout_gravity="right|center_vertical" 
+			android:id="@+id/btnMyMusicSelectSong" android:background="@drawable/my_music_play_overlay_1"/>
+</LinearLayout>

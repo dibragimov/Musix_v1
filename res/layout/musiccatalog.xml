@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:background="@drawable/splash_background" android:orientation="vertical" android:layout_height="fill_parent" android:layout_width="fill_parent">
+  		<LinearLayout
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:background="@drawable/music_catalog_header" android:id="@+id/panelCatalogcMain">
+		
+			
+			<TextView 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:textColor="#ffffffff" 
+				android:layout_gravity="center_horizontal|center_vertical"
+				android:layout_weight="1"
+				android:gravity="center" android:text="@string/catalog_caption" android:paddingLeft="50dip" android:id="@+id/txt_catalog_caption"/>
+			<Button 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:layout_marginRight="10dip" android:layout_gravity="right|center_vertical" android:textColor="#ffffffff" android:id="@+id/btnCatalogBack" android:visibility="visible" android:background="@drawable/blue_back_button_indicator" android:text="@string/mymusicback"/>
+		
+	
+
+</LinearLayout>
+
+
+
+<LinearLayout android:id="@+id/panelCombinedFeaturedGenres" android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical" android:gravity="center" android:visibility="visible">
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/panelCatalogButtons" android:background="@drawable/my_music_sub_bar_for_gray_btn" android:layout_gravity="center" android:gravity="center"><Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnCatalogMainSearch" android:text="@string/catalog_btn_search" android:background="@drawable/music_catalog_left_btn_indicator" android:textColor="@color/music_catalog_tab_btn_color"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnCatalogMainGenres" android:text="@string/catalog_btn_genres" android:background="@drawable/music_catalog_mid_btn_indicator" android:textColor="@color/music_catalog_tab_btn_color"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/catalog_btn_featured" android:id="@+id/btnCatalogMainFeatured" android:background="@drawable/music_catalog_right_btn_indicator" android:textColor="@color/music_catalog_tab_btn_color"></Button>
+</LinearLayout>
+<LinearLayout android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical" android:id="@+id/panelCategoryDownloadGalleries">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="right" android:text="@string/catalog_txt_playlist" android:textSize="12dip"></TextView>
+<Gallery android:layout_height="wrap_content" android:id="@+id/galleryPlaylists" android:layout_weight="1" android:layout_width="fill_parent" android:clipChildren="false" android:minHeight="60dip" android:layout_marginLeft="-220dip"></Gallery>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="@drawable/my_music_separator"></ImageView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="right" android:text="@string/catalog_txt_album" android:textSize="12dip"></TextView>
+<Gallery android:layout_height="wrap_content" android:id="@+id/galleryAlbums" android:layout_weight="1" android:layout_width="fill_parent" android:minHeight="55dip" android:layout_marginLeft="-220dip"></Gallery>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="@drawable/my_music_separator"></ImageView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="right" android:text="@string/catalog_txt_song" android:textSize="12dip"></TextView>
+<Gallery android:layout_height="wrap_content" android:layout_weight="1" android:id="@+id/gallerySongs" android:layout_width="fill_parent" android:minHeight="55dip" android:layout_marginLeft="-220dip"></Gallery>
+
+</LinearLayout>
+<LinearLayout android:layout_height="fill_parent" android:layout_width="fill_parent" android:id="@+id/panelCatalogGenres" android:gravity="center"><ListView android:id="@+id/listCatalogGenres" android:layout_height="fill_parent" android:layout_width="fill_parent" android:divider="@drawable/player_popup_catalog_separtor" android:cacheColorHint="#00000000"></ListView>
+</LinearLayout>
+</LinearLayout>
+<LinearLayout android:layout_height="fill_parent" android:layout_width="fill_parent" android:id="@+id/panelCatalogSearch" android:orientation="vertical" android:visibility="gone">
+<LinearLayout 
+		android:id="@+id/panelCatalogSearchButton" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content" android:background="@drawable/my_music_sub_bar_for_gray_btn" android:visibility="visible">
+			<Button 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:background="@drawable/gray_button_indicator" 
+				android:id="@+id/btnCatalogSearch" 
+				android:gravity="center_vertical" 
+				android:layout_gravity="center_vertical" android:layout_marginLeft="15dip" android:text="@string/catalog_btn_search" android:paddingRight="3dip" android:paddingLeft="3dip"/>
+			<EditText 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:drawableLeft="@drawable/search_bar_icon" android:drawablePadding="5dip" android:layout_marginRight="25dip" android:layout_weight="1" android:paddingLeft="5dip" android:hint="Search" android:layout_gravity="center_vertical" android:layout_marginTop="2dip" android:layout_marginLeft="15dip" android:id="@+id/txtCatalogSearch"/>
+	
+</LinearLayout>
+
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/panelCatalogSearchCriteriaButtons" android:background="@drawable/my_music_sub_bar_for_gray_btn" android:layout_gravity="center" android:gravity="center">
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnCatalogSearchSongs" android:text="@string/catalog_txt_song" android:textColor="@color/music_catalog_tab_btn_color" android:background="@drawable/music_catalog_left_btn_indicator_search"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnCatalogSearchAlbums" android:text="@string/catalog_txt_album" android:textColor="@color/music_catalog_tab_btn_color" android:background="@drawable/music_catalog_mid_btn_indicator_search"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnCatalogSearchArtists" android:textColor="@color/music_catalog_tab_btn_color" android:text="@string/catalog_btn_artists" android:background="@drawable/music_catalog_right_btn_indicator_search"></Button>
+
+</LinearLayout>
+<LinearLayout android:id="@+id/panelCatalogSearchResult" android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical"><ListView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/listCatalogSearchResults" android:cacheColorHint="#00000000"></ListView>
+</LinearLayout>
+</LinearLayout>
+<LinearLayout android:id="@+id/panelCatalogFeatured" android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical" android:visibility="gone">
+<LinearLayout android:layout_height="wrap_content" android:id="@+id/panelMusicCatalogSearchResultNumber" android:layout_width="fill_parent" android:visibility="gone" android:background="@drawable/my_music_sub_bar_for_gray_btn" android:layout_gravity="right|center_vertical" android:gravity="right|center_vertical"><Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnMusicCatalogGetNext20" android:background="@drawable/gray_button_indicator" android:layout_marginTop="3dip" android:layout_marginLeft="15dip" android:layout_marginRight="20dip" android:gravity="center_vertical" android:layout_gravity="center_vertical|center_horizontal" android:text="@string/catalog_button_next20" android:layout_marginBottom="3dip"></Button><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:gravity="right" android:id="@+id/txtMusicCatalogSearchResultsNumber" android:text="found 5 items" android:layout_marginRight="10dip" android:layout_marginTop="2dip" android:layout_marginBottom="2dip" android:textColor="#000000"></TextView>
+</LinearLayout>
+<LinearLayout android:id="@+id/panelCatalogFeaturedDownloadOneButton" android:background="@drawable/my_music_sub_bar_for_gray_btn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center_vertical|center_horizontal" android:visibility="gone">
+<Button android:background="@drawable/gray_button_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnCatalogDownloadFeaturedAll" android:text="Download Album"></Button>
+</LinearLayout>
+<LinearLayout android:id="@+id/panelCatalogFeaturedDownloadTwoButtons" android:background="@drawable/my_music_sub_bar_for_gray_btn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center" android:visibility="gone">
+<Button android:background="@drawable/gray_button_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dip" android:layout_marginRight="20dip" android:id="@+id/btnCatalogDownloadFeaturedDeselect" android:text="Deselect" android:paddingLeft="2dip" android:paddingRight="2dip"></Button>
+<Button android:background="@drawable/gray_button_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5dip" android:layout_marginLeft="20dip" android:id="@+id/btnCatalogDownloadFeaturedSelectedSongs" android:paddingRight="2dip" android:paddingLeft="2dip" android:text="@string/catalog_btn_download_selected"></Button>
+</LinearLayout>
+<ListView android:layout_height="wrap_content" android:id="@+id/listCatalogFeatured" android:layout_width="fill_parent" android:cacheColorHint="#00000000">
+</ListView>
+<LinearLayout
+  android:layout_height="wrap_content"
+  android:layout_width="fill_parent" android:id="@+id/panelMusicCatalogGetNext20" android:layout_gravity="center_horizontal" android:gravity="center_horizontal" android:visibility="gone">
+  
+</LinearLayout>
+
+
+
+</LinearLayout>
+</LinearLayout>

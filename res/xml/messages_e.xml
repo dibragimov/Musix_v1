@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Messages>
+<Message id="MGTestMsg" title="Test Message" text="Hello from Musix Messages">
+<buttons>
+<button   code="MGButtonCodeOK"  name="OK"  />
+<button   code="MGButtonCodeCancel"  name="Cancel"  />
+</buttons>
+</Message>
+</Messages>

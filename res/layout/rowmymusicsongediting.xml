@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="wrap_content" android:layout_width="fill_parent" android:minHeight="59dip">
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnMyMusicDeleteSong" android:layout_marginLeft="10dip" android:background="@drawable/delete_btn_icon" android:layout_gravity="center_vertical"></Button>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="fffffff" android:id="@+id/txtMyMusicEditSongTitle" android:layout_weight="1" android:layout_gravity="center_vertical" android:layout_marginLeft="10dip"></TextView>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnMyMusicAddToPlaylist" android:text="@string/mymusic_playlist2go" android:layout_gravity="center_vertical" android:layout_marginRight="10dip" android:layout_marginBottom="3dip" android:layout_marginTop="3dip"></Button>
+</LinearLayout>

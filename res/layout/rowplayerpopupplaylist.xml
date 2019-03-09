@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="wrap_content" android:layout_width="fill_parent" android:gravity="center" android:minHeight="40dip">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4:34" android:id="@+id/txtPlayerPlaylistSongDuration" android:layout_marginLeft="25dip" android:layout_marginRight="5dip"></TextView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:gravity="right" android:id="@+id/txtPlayerPlaylistSongName" android:text="Song Name"></TextView>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/imgPlayerPopupPlaylistNowPlaying" android:background="@drawable/player_now_playing_song" android:layout_marginLeft="3dip" android:visibility="invisible"></ImageView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="01" android:id="@+id/txtPlayerPopupPlaylistNumber" android:layout_marginRight="10dip" android:layout_marginLeft="10dip"></TextView>
+</LinearLayout>

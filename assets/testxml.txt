@@ -1,0 +1,1092 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<response encryptionKey="0342" isEncrypted="1" milliseconds="1274708912467">
+	<loginResonse>
+		<status>SUCCESS</status>
+	</loginResonse>
+	<clientDataResponse>OK</clientDataResponse>
+	<sync>
+		<medias>
+			<userMedia albumID="21" artistID="292" createDate="1263313118172"
+				deleted="0" genreID="43" id="23663" isSynced="1" length="310"
+				mediaType="AUDIO" name="Muse Breaks" trackNumber="1" />
+			<userMedia albumID="1" artistID="472" createDate="1263313118172"
+				deleted="0" genreID="40" id="23664" isSynced="1" length="248"
+				mediaType="AUDIO" name="Carve" trackNumber="1" />
+			<userMedia albumID="654" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23711" isSynced="1" length="256"
+				mediaType="AUDIO" name="Stevie Ray Vaughan -
+Life Without You"
+				trackNumber="1" />
+			<userMedia albumID="277" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23710" isSynced="1" length="279"
+				mediaType="AUDIO" name="Stevie
+Ray Vaughan - Tightrope" trackNumber="1" />
+			<userMedia albumID="238" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23709" isSynced="1" length="144"
+				mediaType="AUDIO" name="Stevie
+Ray Vaughan - The House Is Rockin'"
+				trackNumber="1" />
+			<userMedia albumID="581" artistID="472" createDate="1263313118172"
+				deleted="0" genreID="43" id="23708" isSynced="1" length="169"
+				mediaType="AUDIO" name="Me Inside (Corey Crowz Demo)" trackNumber="1" />
+			<userMedia albumID="85" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23707" isSynced="1" length="322"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Texas Flood"
+				trackNumber="1" />
+			<userMedia albumID="289" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23706" isSynced="1" length="214"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Taxman" trackNumber="1" />
+			<userMedia albumID="497" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23705" isSynced="1" length="220"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Pride And Joy"
+				trackNumber="1" />
+			<userMedia albumID="593" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23704" isSynced="1" length="409"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Little Wing"
+				trackNumber="1" />
+			<userMedia albumID="19" artistID="491" createDate="1263313118172"
+				deleted="0" genreID="64" id="23665" isSynced="1" length="292"
+				mediaType="AUDIO" name="Fly" trackNumber="1" />
+			<userMedia albumID="409" artistID="489" createDate="1263313118172"
+				deleted="0" genreID="46" id="23666" isSynced="1" length="439"
+				mediaType="AUDIO" name="Ra Heya (original)" trackNumber="1" />
+			<userMedia albumID="344" artistID="488" createDate="1263313118172"
+				deleted="0" genreID="43" id="23667" isSynced="1" length="411"
+				mediaType="AUDIO" name="Navigate into" trackNumber="1" />
+			<userMedia albumID="188" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23668" isSynced="1" length="204"
+				mediaType="AUDIO" name="How to Spell Heroin" trackNumber="1" />
+			<userMedia albumID="443" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23669" isSynced="1" length="220"
+				mediaType="AUDIO" name="Save Me the Last
+Waltz" trackNumber="1" />
+			<userMedia albumID="370" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23670" isSynced="1" length="196"
+				mediaType="AUDIO" name="Bizarre.Glam.GOD" trackNumber="1" />
+			<userMedia albumID="600" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23671" isSynced="1" length="232"
+				mediaType="AUDIO" name="Dope Army" trackNumber="1" />
+			<userMedia albumID="26" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23672" isSynced="1" length="238"
+				mediaType="AUDIO" name="Dead or Alive" trackNumber="1" />
+			<userMedia albumID="429" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23673" isSynced="1" length="208"
+				mediaType="AUDIO" name="Nightmare on Elm
+Street" trackNumber="1" />
+			<userMedia albumID="178" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23674" isSynced="1" length="195"
+				mediaType="AUDIO" name="No Use for Live" trackNumber="1" />
+			<userMedia albumID="241" artistID="472" createDate="1263313118172"
+				deleted="0" genreID="40" id="23675" isSynced="1" length="171"
+				mediaType="AUDIO" name="Coleslaw" trackNumber="1" />
+			<userMedia albumID="59" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23676" isSynced="1" length="255"
+				mediaType="AUDIO" name="Wer Ficken Will" trackNumber="1" />
+			<userMedia albumID="79" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23677" isSynced="1" length="190"
+				mediaType="AUDIO" name="Like A Believer" trackNumber="1" />
+			<userMedia albumID="131" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23678" isSynced="1" length="180"
+				mediaType="AUDIO" name="Preacher Holiday" trackNumber="1" />
+			<userMedia albumID="184" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23679" isSynced="1" length="247"
+				mediaType="AUDIO" name="Necromantic Dreams" trackNumber="1" />
+			<userMedia albumID="629" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23680" isSynced="1" length="316"
+				mediaType="AUDIO" name="Alone in the Dark" trackNumber="1" />
+			<userMedia albumID="12" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23681" isSynced="1" length="184"
+				mediaType="AUDIO" name="Slide Thing" trackNumber="1" />
+			<userMedia albumID="412" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23682" isSynced="1" length="373"
+				mediaType="AUDIO" name="All Your Love I Miss
+Loving" trackNumber="1" />
+			<userMedia albumID="187" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23683" isSynced="1" length="220"
+				mediaType="AUDIO" name="Pride And Joy" trackNumber="1" />
+			<userMedia albumID="539" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23684" isSynced="1" length="301"
+				mediaType="AUDIO" name="Dirty Pool" trackNumber="1" />
+			<userMedia albumID="11" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23685" isSynced="1" length="322"
+				mediaType="AUDIO" name="Texas Flood" trackNumber="1" />
+			<userMedia albumID="5" artistID="472" createDate="1263313118172"
+				deleted="0" genreID="40" id="23686" isSynced="1" length="179"
+				mediaType="AUDIO" name="The Me Inside" trackNumber="1" />
+			<userMedia albumID="552" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23687" isSynced="1" length="230"
+				mediaType="AUDIO" name="Hug You, Squeeze
+You" trackNumber="1" />
+			<userMedia albumID="359" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23688" isSynced="1" length="294"
+				mediaType="AUDIO" name="The Things (That) I
+Used To Do" trackNumber="1" />
+			<userMedia albumID="611" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23689" isSynced="1" length="162"
+				mediaType="AUDIO" name="Honey Bee" trackNumber="1" />
+			<userMedia albumID="607" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23690" isSynced="1" length="247"
+				mediaType="AUDIO" name="Give Me Back My Wig" trackNumber="1" />
+			<userMedia albumID="512" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23691" isSynced="1" length="441"
+				mediaType="AUDIO" name="The Sky Is Crying" trackNumber="1" />
+			<userMedia albumID="3" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23692" isSynced="1" length="189"
+				mediaType="AUDIO" name="Look At Little
+Sister" trackNumber="1" />
+			<userMedia albumID="17" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23693" isSynced="1" length="184"
+				mediaType="AUDIO" name="Empty Arms" trackNumber="1" />
+			<userMedia albumID="363" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23694" isSynced="1" length="271"
+				mediaType="AUDIO" name="Come On" trackNumber="1" />
+			<userMedia albumID="403" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23695" isSynced="1" length="396"
+				mediaType="AUDIO" name="Ain't Gone 'N' Give
+Up On Love" trackNumber="1" />
+			<userMedia albumID="423" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23696" isSynced="1" length="372"
+				mediaType="AUDIO" name="Mary Had A Little
+Lamb" trackNumber="1" />
+			<userMedia albumID="649" artistID="472" createDate="1263313118172"
+				deleted="0" genreID="43" id="23697" isSynced="1" length="160"
+				mediaType="AUDIO" name="Gently" trackNumber="1" />
+			<userMedia albumID="216" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="43" id="23698" isSynced="1" length="256"
+				mediaType="AUDIO" name="Leave My Girl Alone" trackNumber="1" />
+			<userMedia albumID="368" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23699" isSynced="1" length="239"
+				mediaType="AUDIO" name="Stevie Ray Vaughan -
+Change It" trackNumber="1" />
+			<userMedia albumID="283" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23700" isSynced="1" length="241"
+				mediaType="AUDIO" name="Stevie Ray Vaughan -
+Cold Shot" trackNumber="1" />
+			<userMedia albumID="489" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23701" isSynced="1" length="282"
+				mediaType="AUDIO" name="Stevie Ray Vaughan -
+Couldn't Stand The Weather"
+				trackNumber="1" />
+			<userMedia albumID="473" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23702" isSynced="1" length="250"
+				mediaType="AUDIO" name="Stevie
+Ray Vaughan - Crossfire" trackNumber="1" />
+			<userMedia albumID="645" artistID="485" createDate="1263313118172"
+				deleted="0" genreID="7" id="23703" isSynced="1" length="256"
+				mediaType="AUDIO" name="Life
+Without You" trackNumber="1" />
+			<userMedia albumID="297" artistID="292" createDate="1265894027601"
+				deleted="0" genreID="43" id="23774" isSynced="1" length="379"
+				mediaType="AUDIO" name="Room For me,Room For
+Sweets" trackNumber="1" />
+			<userMedia albumID="19" artistID="135" createDate="1271101289283"
+				deleted="0" genreID="7" id="24640" isSynced="1" length="197"
+				mediaType="AUDIO" name="Me, My Guitar and
+the Blues" trackNumber="1" />
+			<userMedia albumID="19" artistID="391" createDate="1271101289476"
+				deleted="0" genreID="40" id="24641" isSynced="1" length="237"
+				mediaType="AUDIO" name="Mouth For War" trackNumber="1" />
+			<userMedia albumID="19" artistID="538" createDate="1271101289496"
+				deleted="0" genreID="64" id="24642" isSynced="1" length="311"
+				mediaType="AUDIO" name="066 - Allman
+Brothers Band - Blue Sky"
+				trackNumber="1" />
+			<userMedia albumID="19" artistID="538" createDate="1271101289514"
+				deleted="0" genreID="64" id="24643" isSynced="1" length="293"
+				mediaType="AUDIO" name="Era -
+Mother" trackNumber="1" />
+			<userMedia albumID="19" artistID="276" createDate="1271101289534"
+				deleted="0" genreID="43" id="24644" isSynced="1" length="270"
+				mediaType="AUDIO" name="Nowhere Fast" trackNumber="1" />
+			<userMedia albumID="19" artistID="589" createDate="1271101289557"
+				deleted="0" genreID="43" id="24645" isSynced="1" length="194"
+				mediaType="AUDIO" name="Waiting" trackNumber="1" />
+			<userMedia albumID="159" artistID="687" createDate="1274189072805"
+				deleted="0" genreID="22" id="24601" isSynced="1" length="67"
+				mediaType="AUDIO" name="פריסטייל מחישגוזים 4" trackNumber="1" />
+			<userMedia albumID="285" artistID="670" createDate="1274189121390"
+				deleted="0" genreID="22" id="24599" isSynced="1" length="290"
+				mediaType="AUDIO" name="ברנרד ולואיז" trackNumber="1" />
+		</medias>
+		<playlists>
+			<userPlaylist deleted="0" externalId="50songs" id="5799"
+				name="50 songs">
+				<userMedia id="23663" sequence="1" />
+				<userMedia id="23665" sequence="3" />
+				<userMedia id="23666" sequence="4" />
+				<userMedia id="23667" sequence="5" />
+				<userMedia id="23668" sequence="6" />
+				<userMedia id="23669" sequence="7" />
+				<userMedia id="23670" sequence="8" />
+				<userMedia id="23671" sequence="9" />
+				<userMedia id="23672" sequence="10" />
+				<userMedia id="23673" sequence="11" />
+				<userMedia id="23674" sequence="12" />
+				<userMedia id="23675" sequence="13" />
+				<userMedia id="23676" sequence="14" />
+				<userMedia id="23677" sequence="15" />
+				<userMedia id="23678" sequence="16" />
+				<userMedia id="23679" sequence="17" />
+				<userMedia id="23680" sequence="18" />
+				<userMedia id="23681" sequence="19" />
+				<userMedia id="23682" sequence="20" />
+				<userMedia id="23683" sequence="21" />
+				<userMedia id="23684" sequence="22" />
+				<userMedia id="23685" sequence="23" />
+				<userMedia id="23686" sequence="24" />
+				<userMedia id="23687" sequence="25" />
+				<userMedia id="23688" sequence="26" />
+				<userMedia id="23689" sequence="27" />
+				<userMedia id="23690" sequence="28" />
+				<userMedia id="23691" sequence="29" />
+				<userMedia id="23692" sequence="30" />
+				<userMedia id="23693" sequence="31" />
+				<userMedia id="23694" sequence="32" />
+				<userMedia id="23695" sequence="33" />
+				<userMedia id="23696" sequence="34" />
+				<userMedia id="23697" sequence="35" />
+				<userMedia id="23698" sequence="36" />
+				<userMedia id="23699" sequence="37" />
+				<userMedia id="23700" sequence="38" />
+				<userMedia id="23701" sequence="39" />
+				<userMedia id="23702" sequence="40" />
+				<userMedia id="23703" sequence="41" />
+				<userMedia id="23704" sequence="42" />
+				<userMedia id="23705" sequence="43" />
+				<userMedia id="23706" sequence="44" />
+				<userMedia id="23707" sequence="45" />
+				<userMedia id="23708" sequence="46" />
+				<userMedia id="23709" sequence="47" />
+				<userMedia id="23710" sequence="48" />
+				<userMedia id="23711" sequence="49" />
+				<userMedia id="23664" sequence="50" />
+			</userPlaylist>
+		</playlists>
+		<albums>
+			<album id="79" name="Becoming Insane EP">
+				<medias>
+					<userMedia id="23677" />
+				</medias>
+			</album>
+			<album id="241" name="Genesis
+(Explicit_Non_MTV.COM_">
+				<medias>
+					<userMedia id="23675" />
+				</medias>
+			</album>
+			<album id="649" name="Untitled -
+14-01-02">
+				<medias>
+					<userMedia id="23697" />
+				</medias>
+			</album>
+			<album id="159" name="Deep Shadows and Brilliant Hig">
+				<medias>
+					<userMedia id="24601" />
+				</medias>
+			</album>
+			<album id="645" name="Unreleased Tracks
+CD R">
+				<medias>
+					<userMedia id="23703" />
+				</medias>
+			</album>
+			<album id="285" name="Instrumental Best Album">
+				<medias>
+					<userMedia id="24599" />
+				</medias>
+			</album>
+			<album id="283" name="Infra-Blue">
+				<medias>
+					<userMedia id="23700" />
+				</medias>
+			</album>
+			<album id="489" name="Scenes from a
+Memory">
+				<medias>
+					<userMedia id="23701" />
+				</medias>
+			</album>
+			<album id="600" name="The Ultimate Experience">
+				<medias>
+					<userMedia id="23671" />
+				</medias>
+			</album>
+			<album id="289" name="Is There Love In
+Space?">
+				<medias>
+					<userMedia id="23706" />
+				</medias>
+			</album>
+			<album id="539" name="Swamp">
+				<medias>
+					<userMedia id="23684" />
+				</medias>
+			</album>
+			<album id="607" name="The ultimate
+Collection">
+				<medias>
+					<userMedia id="23690" />
+				</medias>
+			</album>
+			<album id="85" name="Big Mike - Professional Hood S">
+				<medias>
+					<userMedia id="23707" />
+				</medias>
+			</album>
+			<album id="581" name="The Mass
+CDM">
+				<medias>
+					<userMedia id="23708" />
+				</medias>
+			</album>
+			<album id="370" name="Metallica/..And Justice For Al">
+				<medias>
+					<userMedia id="23670" />
+				</medias>
+			</album>
+			<album id="473" name="Rishumei
+Pecham">
+				<medias>
+					<userMedia id="23702" />
+				</medias>
+			</album>
+			<album id="344" name="MTV Unplugged">
+				<medias>
+					<userMedia id="23667" />
+				</medias>
+			</album>
+			<album id="26" name="7
+Eleven">
+				<medias>
+					<userMedia id="23672" />
+				</medias>
+			</album>
+			<album id="409" name="Official Live">
+				<medias>
+					<userMedia id="23666" />
+				</medias>
+			</album>
+			<album id="3" name="(c) 2001
+Pizza">
+				<medias>
+					<userMedia id="23692" />
+				</medias>
+			</album>
+			<album id="1" name="(Don't) touche me there">
+				<medias>
+					<userMedia id="23664" />
+				</medias>
+			</album>
+			<album id="277" name="Ice
+Beats">
+				<medias>
+					<userMedia id="23710" />
+				</medias>
+			</album>
+			<album id="5" name="- M2 Rip Off Video -">
+				<medias>
+					<userMedia id="23686" />
+				</medias>
+			</album>
+			<album id="443" name="Pure
+Frosting">
+				<medias>
+					<userMedia id="23669" />
+				</medias>
+			</album>
+			<album id="403" name="No Rules">
+				<medias>
+					<userMedia id="23695" />
+				</medias>
+			</album>
+			<album id="238" name="Gemini: Good Vs.
+Evil">
+				<medias>
+					<userMedia id="23709" />
+				</medias>
+			</album>
+			<album id="59" name="Amethyst Rock Star">
+				<medias>
+					<userMedia id="23676" />
+				</medias>
+			</album>
+			<album id="216" name="Far Beyond
+Driven">
+				<medias>
+					<userMedia id="23698" />
+				</medias>
+			</album>
+			<album id="19" name="22 Short Films of Springfield">
+				<medias>
+					<userMedia id="23665" />
+					<userMedia id="24640" />
+					<userMedia id="24641" />
+					<userMedia id="24642" />
+					<userMedia id="24643" />
+					<userMedia id="24644" />
+					<userMedia id="24645" />
+				</medias>
+			</album>
+			<album id="17" name="2005-01-27 - Turner
+Hall">
+				<medias>
+					<userMedia id="23693" />
+				</medias>
+			</album>
+			<album id="178" name="Doppler FX">
+				<medias>
+					<userMedia id="23674" />
+				</medias>
+			</album>
+			<album id="11" name="1200 Mics
+EP">
+				<medias>
+					<userMedia id="23685" />
+				</medias>
+			</album>
+			<album id="12" name="1994 - Dissident - Live In Atl">
+				<medias>
+					<userMedia id="23681" />
+				</medias>
+			</album>
+			<album id="21" name="3">
+				<medias>
+					<userMedia id="23663" />
+				</medias>
+			</album>
+			<album id="512" name="Slipknot [Digi-pak]">
+				<medias>
+					<userMedia id="23691" />
+				</medias>
+			</album>
+			<album id="363" name="Megahits 2002 Disc
+1">
+				<medias>
+					<userMedia id="23694" />
+				</medias>
+			</album>
+			<album id="368" name="Metallica">
+				<medias>
+					<userMedia id="23699" />
+				</medias>
+			</album>
+			<album id="131" name="Come
+Clean">
+				<medias>
+					<userMedia id="23678" />
+				</medias>
+			</album>
+			<album id="552" name="The Art Of War (Disk 2)">
+				<medias>
+					<userMedia id="23687" />
+				</medias>
+			</album>
+			<album id="629" name="Tribute to the
+Notorious B.I.G">
+				<medias>
+					<userMedia id="23680" />
+				</medias>
+			</album>
+			<album id="412" name="Origin Of Symmetry
+(advance)">
+				<medias>
+					<userMedia id="23682" />
+				</medias>
+			</album>
+			<album id="188" name="Early Reflections">
+				<medias>
+					<userMedia id="23668" />
+				</medias>
+			</album>
+			<album id="187" name="Early Days: The
+Best of Led Ze">
+				<medias>
+					<userMedia id="23683" />
+				</medias>
+			</album>
+			<album id="654" name="Use Your Illusion II">
+				<medias>
+					<userMedia id="23711" />
+				</medias>
+			</album>
+			<album id="497" name="Shake off the
+Dust...Arise">
+				<medias>
+					<userMedia id="23705" />
+				</medias>
+			</album>
+			<album id="429" name="Praise Ye Jah">
+				<medias>
+					<userMedia id="23673" />
+				</medias>
+			</album>
+			<album id="297" name="Its Dark and Hell
+Is Hot">
+				<medias>
+					<userMedia id="23774" />
+				</medias>
+			</album>
+			<album id="184" name="Dubplate">
+				<medias>
+					<userMedia id="23679" />
+				</medias>
+			</album>
+			<album id="359" name="Mate. Feed. Kill.
+Repeat">
+				<medias>
+					<userMedia id="23688" />
+				</medias>
+			</album>
+			<album id="611" name="This is psychedelic trance (go">
+				<medias>
+					<userMedia id="23689" />
+				</medias>
+			</album>
+			<album id="423" name="Placebo">
+				<medias>
+					<userMedia id="23696" />
+				</medias>
+			</album>
+			<album id="593" name="The Root EP">
+				<medias>
+					<userMedia id="23704" />
+				</medias>
+			</album>
+		</albums>
+		<genres>
+			<genre id="7" name="Blues">
+				<artists>
+					<artist id="485" />
+					<artist id="135" />
+				</artists>
+			</genre>
+			<genre id="43" name="Other">
+				<artists>
+					<artist id="292" />
+					<artist id="472" />
+					<artist id="488" />
+					<artist id="485" />
+					<artist id="276" />
+					<artist id="589" />
+				</artists>
+			</genre>
+			<genre id="46" name="Psychedelic">
+				<artists>
+					<artist id="489" />
+				</artists>
+			</genre>
+			<genre id="40" name="Metal">
+				<artists>
+					<artist id="472" />
+					<artist id="391" />
+				</artists>
+			</genre>
+			<genre id="22" name="Freestyle">
+				<artists>
+					<artist id="687" />
+					<artist id="670" />
+				</artists>
+			</genre>
+			<genre id="64" name="Unknown">
+				<artists>
+					<artist id="538" />
+					<artist id="491" />
+				</artists>
+			</genre>
+			<genre id="27" name="Gothic
+Rock">
+				<artists>
+					<artist id="487" />
+				</artists>
+			</genre>
+		</genres>
+		
+		
+		<artists>
+			<artist id="687" name="סאבלימינל">
+				<albums>
+					<album id="159" />
+				</albums>
+			</artist>
+			<artist id="135" name="Chris Thomas King">
+				<albums>
+					<album id="19" />
+				</albums>
+			</artist>
+			<artist id="391" name="Pantera">
+				<albums>
+					<album id="19" />
+				</albums>
+			</artist>
+			<artist id="487" name="Stoneman">
+				<albums>
+					<album id="188" />
+					<album id="443" />
+					<album id="370" />
+					<album id="600" />
+					<album id="26" />
+					<album id="429" />
+					<album id="178" />
+					<album id="59" />
+					<album id="79" />
+					<album id="131" />
+					<album id="184" />
+					<album id="629" />
+				</albums>
+			</artist>
+			<artist id="485" name="Stevie Ray Vaughan">
+				<albums>
+					<album id="12" />
+					<album id="412" />
+					<album id="187" />
+					<album id="539" />
+					<album id="11" />
+					<album id="552" />
+					<album id="359" />
+					<album id="611" />
+					<album id="607" />
+					<album id="512" />
+					<album id="3" />
+					<album id="17" />
+					<album id="363" />
+					<album id="403" />
+					<album id="423" />
+					<album id="216" />
+					<album id="645" />
+				</albums>
+			</artist>
+			<artist id="292" name="J-Views">
+				<albums>
+					<album id="21" />
+					<album id="297" />
+				</albums>
+			</artist>
+			<artist id="489" name="Sub6">
+				<albums>
+					<album id="409" />
+				</albums>
+			</artist>
+			<artist id="488" name="Sub 6 vs Pixel">
+				<albums>
+					<album id="344" />
+				</albums>
+			</artist>
+			<artist id="491" name="Suger
+ray">
+				<albums>
+					<album id="19" />
+				</albums>
+			</artist>
+			<artist id="276" name="INCUBUS">
+				<albums>
+					<album id="19" />
+				</albums>
+			</artist>
+			<artist id="472" name="Slipknot">
+				<albums>
+					<album id="1" />
+					<album id="581" />
+					<album id="241" />
+					<album id="5" />
+					<album id="649" />
+				</albums>
+			</artist>
+			<artist id="670" name="מאיר
+אריאל">
+				<albums>
+					<album id="285" />
+				</albums>
+			</artist>
+			<artist id="538" name="Unknown">
+				<albums>
+					<album id="654" />
+					<album id="277" />
+					<album id="238" />
+					<album id="85" />
+					<album id="289" />
+					<album id="497" />
+					<album id="593" />
+					<album id="368" />
+					<album id="283" />
+					<album id="489" />
+					<album id="473" />
+					<album id="19" />
+				</albums>
+			</artist>
+			<artist id="589" name="greenday">
+				<albums>
+					<album id="19" />
+				</albums>
+			</artist>
+		</artists>
+		<ConditionMsgText>
+			<line>להלן תנאי
+				השירות המעודכנים החל מיום 1.11.09. לנוסח תנאי השירות כפי שהיו עד ליום
+				1.11.09 , גלול לסוף תנאי השירות
+				המעודכנים"</line>
+			<line />
+			<line />
+			<line>תנאי שירות:</line>
+			<line>השירות
+				מיועד למנויי פלאפון (למעט לקוחות prepaid ולקוחות החסומים לגלישה דרך
+				המכשיר באמצעות אתר musix.co.il או באמצעות מכשיר פלאפון High Speed
+				GSM
+</line>
+			<line>לרשימת מכשירי High Speed GSM תומכים כנס ל www.musix.co.il
+			</line>
+			<line>אם אין ברשותכם מכשיר פלאפון התומך בשירות, תוכלו ליהנות מ
+				MUSIX באינטרנט בלבד. </line>
+			<line>תעריפי השירות :</line>
+			<line>השימוש
+				בשירות כרוך בתשלום דמי שימוש חודשיים בסך של 19.90 ₪ (כולל מע"מ).
+</line>
+			<line>ההטבות אשר קיבלת בהצטרפותך לשירות יהיו בהתאם לתנאיהם.
+				לפרטים בדבר ההטבה שקיבלת חייג שיחת חינם מהפלאפון *160. . בחלוף תקופת
+				ההטבה שניתנה לך ימשיך ויסופק השירות בתשלום דמי שימוש חודשיים כאמור
+				לעיל.</line>
+			<line />
+			<line>הורדת היישום בישראל הינה ללא תשלום עבור שליחה
+				וקבלת נתונים, לא כולל גישה ליישום.</line>
+			<line />
+			<line>פלאפון רשאית
+				לפנות, לפי שיקול דעתה, למנויים שבהצטרפותם לשירות נהנו תקופה מסוימת
+				מהשירות ללא תשלום, בסמוך לפני סיום תקופת השימוש בשירות ללא תשלום ו/או
+				בכל עת לאחר מכן, בהצעה למתן השירות על פי תעריפים שונים (להלן:
+				"ההצעה"). במקרה של הסכמת מנויים אלה להצעה, יסופק השירות בהתאם לתעריפים
+				שבהצעה. במקרה של אי הסכמה להצעה או בהעדר אישור של מנויים אלה להצעה,
+				יופסק השירות במועד סיום תקופת השימוש בשירות ללא תשלום או במועד הנקוב
+				בהצעה.</line>
+			<line />
+			<line>ביטול השירות: יתאפשר באחד מהאמצעים הבאים
+				ולאחר מסירת מספר תעודת זהות. </line>
+			<line />
+			<line>• בדואר רשום: פלאפון
+				תקשורת בע"מ, דרך יצחק רבין 33 גבעתיים - תפעול</line>
+			<line>• פקס:
+				050-7048053</line>
+			<line>• טלפון: מוקד שירות לקוחות
+				166*</line>
+			<line>• מרכז שירות</line>
+			<line>• אתר פלאפון -
+				www.pelephone.co.il</line>
+			<line />
+			<line>לתשומת ליבך, על אף האמור, במקרה
+				בו בקשת הביטול תימסר בעל פה (באמצעות פנייה טלפונית או במרכז שירות) וכן
+				סוכם עימך על ביטול השירות/ים באופן זה בלבד באמצעות פרט מזהה אחר ,
+				ייעשה הביטול באמצעות אותו פרט מזהה.</line>
+			<line>יובהר כי אין בביטול
+				השירות כדי לגרוע מכל זכות של חברת פלאפון על פי תנאי ההתקשרות עם הלקוח
+				ו/או על פי כל דין. </line>
+			<line>באם לא צוין מועד אחר בהודעת הביטול,
+				ביטל השירות/ים ייכנס לתוקף תוך 3 ימי עסקים ממועד מסירת הודעת הביטול.
+				על אף האמור, במקרה של משלוח הודעת ביטול באמצעות דואר רשום, ייכנס
+				הביטול לתוקף תוך 6 ימי עסקים.  </line>
+			<line />
+			<line>שים לב! עם הפסקת
+				המנוי, מכל סיבה שהיא, לא ניתן יהיה להאזין לשירים שבחרת, הן באתר
+				musix.co.il והן במכשיר הפלאפון.</line>
+			<line />
+			<line>הרשמה לשירות : אם
+				אתם רשומים לאתר פלאפון כנסו לאתר www.musix.co.il, והקישו את מספר
+				הפלאפון שלכם והסיסמה ולאחר מכן הירשמו לשירות "MUSIX". </line>
+			<line>אם
+				אינכם רשומים לאתר פלאפון, הירשמו לאתר פלאפון ולאחר מכן ליחצו על "הרשמה
+				לMUSIX ".</line>
+			<line />
+			<line>הוספת שירים ל"מוסיקה
+				שלי":</line>
+			<line>מנויי השירות מוזמנים להוסיף מוסיקה לאזור ה"מוסיקה
+				שלי" (גם מאתר האינטרנט של השירות וגם מהמכשיר) ולהאזין לה ללא הגבלה.
+				מספר השירים שהפלייליסטים ב"מוסיקה שלי" יכולים להכיל איננו מוגבל, אולם
+				פלאפון רשאית להגביל, לפי שיקול דעתה, את מספר השירים שלקוח יכול
+				להוסיף
+				ל"מוסיקה שלי" ביום, ללא הודעה מוקדמת. </line>
+			<line />
+			<line>האזנה לשירים
+				מהמכשיר:</line>
+			<line>בהשמעה ראשונה של חלק מהשירים במכשיר הפלאפון
+				תצטרכו להמתין מספר שניות לפני שתתאפשר האזנה לשיר וזאת עד השלמת הורדת
+				השיר לזיכרון הפלאפון שלכם. מההשמעה השנייה ואילך של אותו שיר לא תדרשו
+				להמתין עד לתחילת השמעתו במכשיר. תופעה דומה תתיכן גם בהחלפת מכשיר,
+				כרטיס זיכרון או תיקונם.</line>
+			<line />
+			<line>האזנה לשירים מהמכשיר באזור
+				ללא קליטה:</line>
+			<line>כאשר הינכם נמצאים באזור ללא קליטה תוכלו להמשיך
+				להאזין למוסיקה שלכם ללא הגבלה. לא ניתן להאזין לשירים שטרם האזנתם להם
+				באמצעות מכשיר הפלאפון או שאינם נמצאים בזיכרון עד שתמצאו באזור עם
+				קליטה
+				ואז תוכלו להוריד שירים לזיכרון המכשיר.</line>
+			<line>ההאזנה לשירים באזור
+				ללא קליטה מוגבלת לימים ספורים מהחיבור האחרון לשירות מאזור עם קליטה.
+				לאחר מספר ימים בהם לא יתבצע חיבור לשירות (עקב העדר קליטה או סיבות
+				אחרות), יינעלו השירים שבמכשיר ולא ניתן יהיה להאזין להם. מהרגע
+				שהשירות
+				יופעל באזור עם קליטה, וכל עוד הלקוח מנוי לשירות, ניתן יהיה להאזין לכל
+				השירים ב"מוסיקה שלי"- ללא הגבלה.</line>
+			<line>שימוש בשירות בחו"ל
+				(בנדידה):</line>
+			<line>בזמן שהותך בחו"ל השימוש בשירות יאפשר לך להאזין
+				רק לשירים שמצויים כבר בזיכרון המכשיר. שים לב!!! כל הפעלה של השירות
+				ממכשיר הפלאפון בחו"ל (בנדידה) כרוכה בתשלום עבור תקשורת נתונים, בין
+				אם
+				קיים חיוב בגין שירות זה בישראל ובין אם לא. התשלום בגין שירותי תקשורת
+				נתונים בחו"ל מחויב לפי יחידות של 100KB (כל תשדורת ("("SESSION תקשורת
+				נתונים מעוגלת כלפי מעלה ליחידת 100 KB הקרובה). תשומת לבך, כי תעריפי
+				תקשורת הנתונים בחו"ל עלולים להיות גבוהים באופן ניכר מהתעריפים בארץ.
+				לפרטים בדבר חבילות גלישה בחו"ל חייג 444* שיחת חינם
+				מהפלאפון.</line>
+			<line>אנו ממליצים לך לחזור וליהנות מהשירות מייד עם
+				חזרתך לישראל.</line>
+			<line />
+			<line>מחיקת שירים:</line>
+			<line>במידה ותרצה
+				תוכל למחוק שיר/ים מ"המוסיקה שלי". במקרה כזה, השיר יימחק מאזור "המוסיקה
+				שלי", וכן יוסר מכרטיס הזיכרון במכשיר הפלאפון שלך. בכל זמן, על פי
+				בחירתך, תוכל להוסיף אותו בחזרה לאזור ה"מוסיקה שלי" ולהאזין לו ללא
+				הגבלה.</line>
+			<line>הסרת שירים מכרטיס הזיכרון במכשיר:</line>
+			<line> על
+				מנת להסיר שירים, אלבומים ופלייליסטים מכרטיס הזיכרון במכשיר, מבלי למחוק
+				שירים אלה מאזור "המוסיקה שלי", תוכל לבצע אחת מ -2 פעולות: 1. באתר
+				האינטרנט - באמצעות סימון השיר בשדה המתאים לכך בתוך רשימת השירים
+				ב"מוסיקה שלי" או, 2. ממכשיר הפלאפון - באמצעות כניסה לשירות ממכשיר
+				הפלאפון, עמידה על הפריט שברצונך להסיר מהזיכרון, לחיצה על "אפשרויות"
+				ובחירה ב "הסר מהזיכרון". השירים שבחרת יוסרו מכרטיס הזיכרון אך יישארו
+				ב"מוסיקה שלי". בכל עת תוכל לחזור ולהוסיף לזיכרון המכשיר שירים שהסרת
+				הן
+				על ידי סימון שירים אלה מאתר השירות והן על ידי בחירה להאזין לשירים אלה
+				מהמכשיר.</line>
+			<line>זכויות יוצרים:</line>
+			<line>פלאפון שומרת על
+				זכויות היוצרים והמבצעים בתכנים הכלולים בשירות. פלאפון שומרת לעצמה את
+				הזכות להסיר, ללא הודעה מראש ומבלי מתן פירוט כלשהו, תכנים ו/או שירים
+				מהשירות עקב סיום הסכמי רישיון בין בעלי זכויות, ו/או נציגיהם לבין
+				פלאפון ועד לחתימה על הסכמים מחודשים, ככל שתהיה או עד חידוש הסדרי
+				הזכויות ו/או הרישיון ו/או עד בכלל. במקרה כאמור, לא תוכלו להאזין
+				לתכנים/שירים כאמור, הן באתר והן ממכשיר הפלאפון שלכם. הודעה על הסרת
+				שירים מ"המוסיקה שלי" תופיע עם הפעלת השירות והשירים המדוברים יוסרו
+				מכרטיס הזיכרון אך יישארו ב"מוסיקה שלי" במצב "לא זמין".</line>
+			<line>
+				התכנים הכלולים בשירות מוגנים בזכויות יוצרים ובזכויות קניין רוחני
+				אחרות, של פלאפון או של ספקים מטעמה. אסור להפיץ, לשנות, לערוך, להעתיק,
+				להשכיר, לבצע בפומבי, באופן זמני או קבוע את התכנים או חלקם. השימוש
+				בשירות מוגבל לשימוש אישי ופרטי בלבד של המנוי לשירות ואינו ניתן
+				להעברה.
+				כל שימוש מסחרי ו/או אחר בשירות ו/או בתכנים מהשירות ו/או שימוש שיש בו
+				כדי לפגוע בזכויות יוצרים אסור.
+</line>
+			<line />
+			<line>כללי:</line>
+			<line>השירות כפוף לזמינות ותקינות רשת
+				הרט"ן של פלאפון ומערכות השירות. </line>
+			<line />
+			<line>ניתן להשתמש בשירות
+				ממחשב אישי אחד. לא יתאפשר שימוש ביישום ממספר מחשבים במקביל.
+</line>
+			<line />
+			<line> פלאפון וכל הבאים מטעמה אינם מתחייבים כי השירות
+				לרבות פעילות השירות באמצעות מכשיר הפלאפון יהיו רציפים או חפים מטעויות.
+				הנכם מצהירים בזאת, כי אתם מוותרים על כל טענה, דרישה או תביעה נגד
+				פלאפון ו/או מי מטעמה, מכל סיבה שהיא בגין העדר אפשרות כניסה לאתר
+				השירות
+				ו/או העדר אפשרות שימוש באתר ו/או בשירות ו/או במכשיר הפלאפון לצורך
+				השירות ו/או במסגרתו.</line>
+			<line />
+			<line />
+			<line>אין באמור לעיל כדי
+				לשנות מתנאי הסכם הרט"ן שבין הלקוח לבין פלאפון (להלן:"הסכם הרט"ן"). בכל
+				מקרה של סתירה או אי התאמה בין התנאים הנ"ל לבין תנאי הסכם הרט"ן ,
+				יגברו
+				תנאי הסכם הרט"ן.</line>
+			<line>מאפייני השירות, תעריפיו ותנאיו כפופים
+				לשינויים מעת לעת. </line>
+			<line>"חברת פלאפון תקשורת בע"מ מספר ח.פ.
+				511076572"</line>
+			<line />
+			<line>תנאי השירות עד ליום
+				1.11.09</line>
+			<line>השימוש בשירות כרוך בתשלום דמי שימוש חודשיים בסך של
+				19.90 ₪ (כולל מע"מ). </line>
+			<line>מנויים חדשים לשירות יהנו מ -2 חודשים
+				ללא תשלום וללא התחייבות לשירות. בחלוף חודשיים ימשיך ויסופק השירות
+				בתשלום דמי שימוש חודשיים כאמור לעיל. לפרטים בדבר ההטבה שקיבלת חייג
+				שיחת חינם מהפלאפון *160. </line>
+			<line />
+			<line>הורדת היישום בישראל הינה
+				ללא תשלום עבור שליחה וקבלת נתונים, לא כולל גישה
+				ליישום.</line>
+			<line />
+			<line>פלאפון רשאית לפנות, לפי שיקול דעתה, למנויים
+				שבהצטרפותם לשירות נהנו תקופה מסוימת מהשירות ללא תשלום, בסמוך לפני סיום
+				תקופת השימוש בשירות ללא תשלום ו/או בכל עת לאחר מכן, בהצעה למתן השירות
+				על פי תעריפים שונים (להלן: "ההצעה"). במקרה של הסכמת מנויים אלה להצעה,
+				יסופק השירות בהתאם לתעריפים שבהצעה. במקרה של אי הסכמה להצעה או בהעדר
+				אישור של מנויים אלה להצעה, יופסק השירות במועד סיום תקופת השימוש
+				בשירות
+				ללא תשלום או במועד הנקוב בהצעה.</line>
+			<line />
+			<line>ביטול השירות:
+				יתאפשר באחד מהאמצעים הבאים ולאחר מסירת מספר תעודת זהות.
+</line>
+			<line />
+			<line>• בדואר רשום: פלאפון תקשורת בע"מ, דרך יצחק רבין 33
+				גבעתיים - תפעול</line>
+			<line>• פקס: 050-7048053</line>
+			<line>• טלפון:
+				מוקד שירות לקוחות 166*</line>
+			<line>• מרכז שירות</line>
+			<line>• אתר
+				פלאפון - www.pelephone.co.il</line>
+			<line />
+			<line>לתשומת ליבך, על אף
+				האמור, במקרה בו בקשת הביטול תימסר בעל פה (באמצעות פנייה טלפונית או
+				במרכז שירות) וכן סוכם עימך על ביטול השירות/ים באופן זה בלבד באמצעות
+				פרט מזהה אחר , ייעשה הביטול באמצעות אותו פרט מזהה.</line>
+			<line>יובהר
+				כי אין בביטול השירות כדי לגרוע מכל זכות של חברת פלאפון על פי תנאי
+				ההתקשרות עם הלקוח ו/או על פי כל דין. </line>
+			<line>באם לא צוין מועד אחר
+				בהודעת הביטול, ביטל השירות/ים ייכנס לתוקף תוך 3 ימי עסקים ממועד מסירת
+				הודעת הביטול. על אף האמור, במקרה של משלוח הודעת ביטול באמצעות דואר
+				רשום, ייכנס הביטול לתוקף תוך 6 ימי עסקים.  </line>
+			<line />
+			<line>שים לב!
+				עם הפסקת המנוי, מכל סיבה שהיא, לא ניתן יהיה להאזין לשירים שבחרת, הן
+				באתר musix.co.il והן במכשיר הפלאפון.</line>
+			<line />
+			<line>הרשמה לשירות
+				: אם אתם רשומים לאתר פלאפון כנסו לאתר www.musix.co.il, והקישו את מספר
+				הפלאפון שלכם והסיסמה ולאחר מכן הירשמו לשירות "MUSIX". </line>
+			<line>אם
+				אינכם רשומים לאתר פלאפון, הירשמו לאתר פלאפון ולאחר מכן ליחצו על "הרשמה
+				לMUSIX ".</line>
+			<line />
+			<line>הוספת שירים ל"מוסיקה
+				שלי":</line>
+			<line>מנויי השירות מוזמנים להוסיף מוסיקה לאזור ה"מוסיקה
+				שלי" (גם מאתר האינטרנט של השירות וגם מהמכשיר) ולהאזין לה ללא הגבלה.
+				מספר השירים שהפלייליסטים ב"מוסיקה שלי" יכולים להכיל איננו מוגבל, אולם
+				פלאפון רשאית להגביל, לפי שיקול דעתה, את מספר השירים שלקוח יכול
+				להוסיף
+				ל"מוסיקה שלי" ביום, ללא הודעה מוקדמת. </line>
+			<line />
+			<line>האזנה לשירים
+				מהמכשיר:</line>
+			<line>בהשמעה ראשונה של חלק מהשירים במכשיר הפלאפון
+				תצטרכו להמתין מספר שניות לפני שתתאפשר האזנה לשיר וזאת עד השלמת הורדת
+				השיר לזיכרון הפלאפון שלכם. מההשמעה השנייה ואילך של אותו שיר לא תדרשו
+				להמתין עד לתחילת השמעתו במכשיר. תופעה דומה תתיכן גם בהחלפת מכשיר,
+				כרטיס זיכרון או תיקונם.</line>
+			<line />
+			<line>האזנה לשירים מהמכשיר באזור
+				ללא קליטה:</line>
+			<line>כאשר הינכם נמצאים באזור ללא קליטה תוכלו להמשיך
+				להאזין למוסיקה שלכם ללא הגבלה. לא ניתן להאזין לשירים שטרם האזנתם להם
+				באמצעות מכשיר הפלאפון או שאינם נמצאים בזיכרון עד שתמצאו באזור עם
+				קליטה
+				ואז תוכלו להוריד שירים לזיכרון המכשיר.</line>
+			<line>ההאזנה לשירים באזור
+				ללא קליטה מוגבלת לימים ספורים מהחיבור האחרון לשירות מאזור עם קליטה.
+				לאחר מספר ימים בהם לא יתבצע חיבור לשירות (עקב העדר קליטה או סיבות
+				אחרות), יינעלו השירים שבמכשיר ולא ניתן יהיה להאזין להם. מהרגע
+				שהשירות
+				יופעל באזור עם קליטה, וכל עוד הלקוח מנוי לשירות, ניתן יהיה להאזין לכל
+				השירים ב"מוסיקה שלי"- ללא הגבלה.</line>
+			<line>שימוש בשירות בחו"ל
+				(בנדידה):</line>
+			<line>בזמן שהותך בחו"ל השימוש בשירות יאפשר לך להאזין
+				רק לשירים שמצויים כבר בזיכרון המכשיר. שים לב!!! כל הפעלה של השירות
+				ממכשיר הפלאפון בחו"ל (בנדידה) כרוכה בתשלום עבור תקשורת נתונים, בין
+				אם
+				קיים חיוב בגין שירות זה בישראל ובין אם לא. התשלום בגין שירותי תקשורת
+				נתונים בחו"ל מחויב לפי יחידות של 100KB (כל תשדורת ("("SESSION תקשורת
+				נתונים מעוגלת כלפי מעלה ליחידת 100 KB הקרובה). תשומת לבך, כי תעריפי
+				תקשורת הנתונים בחו"ל עלולים להיות גבוהים באופן ניכר מהתעריפים בארץ.
+				לפרטים בדבר חבילות גלישה בחו"ל חייג 444* שיחת חינם
+				מהפלאפון.</line>
+			<line>אנו ממליצים לך לחזור וליהנות מהשירות מייד עם
+				חזרתך לישראל.</line>
+			<line />
+			<line>מחיקת שירים:</line>
+			<line>במידה ותרצה
+				תוכל למחוק שיר/ים מ"המוסיקה שלי". במקרה כזה, השיר יימחק מאזור "המוסיקה
+				שלי", וכן יוסר מכרטיס הזיכרון במכשיר הפלאפון שלך. בכל זמן, על פי
+				בחירתך, תוכל להוסיף אותו בחזרה לאזור ה"מוסיקה שלי" ולהאזין לו ללא
+				הגבלה.</line>
+			<line>הסרת שירים מכרטיס הזיכרון במכשיר:</line>
+			<line> על
+				מנת להסיר שירים, אלבומים ופלייליסטים מכרטיס הזיכרון במכשיר, מבלי למחוק
+				שירים אלה מאזור "המוסיקה שלי", תוכל לבצע אחת מ -2 פעולות: 1. באתר
+				האינטרנט - באמצעות סימון השיר בשדה המתאים לכך בתוך רשימת השירים
+				ב"מוסיקה שלי" או, 2. ממכשיר הפלאפון - באמצעות כניסה לשירות ממכשיר
+				הפלאפון, עמידה על הפריט שברצונך להסיר מהזיכרון, לחיצה על "אפשרויות"
+				ובחירה ב "הסר מהזיכרון". השירים שבחרת יוסרו מכרטיס הזיכרון אך יישארו
+				ב"מוסיקה שלי". בכל עת תוכל לחזור ולהוסיף לזיכרון המכשיר שירים שהסרת
+				הן
+				על ידי סימון שירים אלה מאתר השירות והן על ידי בחירה להאזין לשירים אלה
+				מהמכשיר.</line>
+			<line>זכויות יוצרים:</line>
+			<line>פלאפון שומרת על
+				זכויות היוצרים והמבצעים בתכנים הכלולים בשירות. פלאפון שומרת לעצמה את
+				הזכות להסיר, ללא הודעה מראש ומבלי מתן פירוט כלשהו, תכנים ו/או שירים
+				מהשירות עקב סיום הסכמי רישיון בין בעלי זכויות, ו/או נציגיהם לבין
+				פלאפון ועד לחתימה על הסכמים מחודשים, ככל שתהיה או עד חידוש הסדרי
+				הזכויות ו/או הרישיון ו/או עד בכלל. במקרה כאמור, לא תוכלו להאזין
+				לתכנים/שירים כאמור, הן באתר והן ממכשיר הפלאפון שלכם. הודעה על הסרת
+				שירים מ"המוסיקה שלי" תופיע עם הפעלת השירות והשירים המדוברים יוסרו
+				מכרטיס הזיכרון אך יישארו ב"מוסיקה שלי" במצב "לא זמין".</line>
+			<line>
+				התכנים הכלולים בשירות מוגנים בזכויות יוצרים ובזכויות קניין רוחני
+				אחרות, של פלאפון או של ספקים מטעמה. אסור להפיץ, לשנות, לערוך, להעתיק,
+				להשכיר, לבצע בפומבי, באופן זמני או קבוע את התכנים או חלקם. השימוש
+				בשירות מוגבל לשימוש אישי ופרטי בלבד של המנוי לשירות ואינו ניתן
+				להעברה.
+				כל שימוש מסחרי ו/או אחר בשירות ו/או בתכנים מהשירות ו/או שימוש שיש בו
+				כדי לפגוע בזכויות יוצרים אסור.
+</line>
+			<line />
+			<line>כללי:</line>
+			<line>השירות כפוף לזמינות ותקינות רשת
+				הרט"ן של פלאפון ומערכות השירות. </line>
+			<line />
+			<line>ניתן להשתמש בשירות
+				ממחשב אישי אחד. לא יתאפשר שימוש ביישום ממספר מחשבים במקביל.
+</line>
+			<line />
+			<line> פלאפון וכל הבאים מטעמה אינם מתחייבים כי השירות
+				לרבות פעילות השירות באמצעות מכשיר הפלאפון יהיו רציפים או חפים מטעויות.
+				הנכם מצהירים בזאת, כי אתם מוותרים על כל טענה, דרישה או תביעה נגד
+				פלאפון ו/או מי מטעמה, מכל סיבה שהיא בגין העדר אפשרות כניסה לאתר
+				השירות
+				ו/או העדר אפשרות שימוש באתר ו/או בשירות ו/או במכשיר הפלאפון לצורך
+				השירות ו/או במסגרתו.</line>
+			<line />
+			<line />
+			<line>אין באמור לעיל כדי
+				לשנות מתנאי הסכם הרט"ן שבין הלקוח לבין פלאפון (להלן:"הסכם הרט"ן"). בכל
+				מקרה של סתירה או אי התאמה בין התנאים הנ"ל לבין תנאי הסכם הרט"ן ,
+				יגברו
+				תנאי הסכם הרט"ן.</line>
+			<line>מאפייני השירות, תעריפיו ותנאיו כפופים
+				לשינויים מעת לעת. </line>
+			<line>"חברת פלאפון תקשורת בע"מ מספר ח.פ.
+				511076572"</line>
+		</ConditionMsgText>
+		<JoinMsgText>
+			<line>יוסי
+				כחלון</line>
+			<line>בואו הירשמו ל MUSIX ותיהנו מחויית מוסיקה
+				אינסופית.</line>
+			<line>אלפי אמנים, אלבומים, פלייליסטים ושירים ממתינים
+				שתאזינו להם ללא הגבלה הן במכשיר הפלאפון והן באתר
+				www.musix.co.il.</line>
+			<line>לעלויות ותנאי שירות לחצו "תנאי השירות".
+				לאישור התנאים והצטרפות ליחצו "הרשמה".</line>
+			<line>האזנה
+				מהנה</line>
+		</JoinMsgText>
+	</sync>
+</response>

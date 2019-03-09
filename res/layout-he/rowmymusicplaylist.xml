@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content" android:layout_width="fill_parent"
+	android:minHeight="59dip">
+	<ImageView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_marginLeft="10dip"
+		android:background="@drawable/left_arrow" android:layout_gravity="left|center_vertical" />
+
+	<LinearLayout android:id="@+id/LinearLayout01"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_weight="1" android:layout_gravity="right|center_vertical"
+		android:gravity="right">
+		<TextView android:id="@+id/txtMyMusicPlaylistName"
+			android:layout_height="wrap_content" android:textColor="#ffa7a7a7"
+			android:layout_marginRight="15dip" android:text=" בדיקה"
+			android:layout_width="wrap_content" android:ellipsize="end"
+			android:singleLine="true" />
+	</LinearLayout>
+	
+	<ImageView 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/imgMyMusicPlaylistCover" 
+		android:layout_gravity="center_vertical" android:layout_marginRight="10dip"/>
+		
+
+</LinearLayout>

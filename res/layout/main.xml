@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<il.co.pelephone.musix.UI.widget.MusixTabHost 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@android:id/tabhost"    
+	android:layout_width="fill_parent"    
+	android:layout_height="fill_parent"
+	android:fadingEdge="vertical" 
+	android:fadingEdgeLength="20dip">    
+	
+	<LinearLayout        
+		android:orientation="vertical"        
+		android:layout_width="fill_parent"        
+		android:layout_height="fill_parent"> 
+		       
+		<FrameLayout            
+			android:id="@android:id/tabcontent"            
+			android:layout_width="fill_parent"            
+			android:layout_height="wrap_content"
+			android:layout_weight="1">            
+			        
+		</FrameLayout>
+		<il.co.pelephone.musix.UI.widget.TabWidget            
+			android:id="@android:id/tabs"            
+			android:layout_width="fill_parent"            
+			android:layout_height="wrap_content" 
+			android:layout_weight="0" 
+			android:layout_gravity="bottom" 
+			android:fadingEdge="horizontal|vertical" 
+			android:fadingEdgeLength="10dip" 
+			android:background="@drawable/tabbutton_background"/>    
+	</LinearLayout>
+</il.co.pelephone.musix.UI.widget.MusixTabHost>

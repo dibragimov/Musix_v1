@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:layout_height="wrap_content" android:layout_width="fill_parent"
+  	android:orientation="vertical" >
+  		<LinearLayout 
+  			android:layout_width="fill_parent" 
+  			android:layout_height="wrap_content" 
+  			android:orientation="vertical"
+  			android:background="@drawable/popup_tos_background" android:paddingBottom="5dip" android:id="@+id/linearTOS" android:layout_weight="1">
+		  		<ImageView 
+			  		android:layout_gravity="right"
+			  		android:layout_height="wrap_content" 
+			  		android:layout_width="wrap_content" 
+			  		android:background="@drawable/logo_musix_tos"
+			  		android:layout_weight="0" 
+			  		android:id="@+id/relativeTOSImage"/>
+				<ScrollView 
+					android:layout_height="wrap_content" 
+					android:layout_width="fill_parent"
+					android:layout_weight="1"  
+					android:layout_marginLeft="10dip" 
+					android:layout_marginRight="10dip"
+					android:layout_marginBottom="5dip" 
+					android:id="@+id/scrollTOS" android:fillViewport="false">
+						
+						<TextView android:layout_height="wrap_content" 
+							android:layout_width="fill_parent" 
+							android:id="@+id/txtTermsOfService" 
+							android:text="@string/terms_of_service" android:textColor="#ff3c7abc" android:gravity="right" android:layout_marginRight="12dip"/>
+				</ScrollView>
+				<TextView 
+					android:text="Version 1"
+					android:id="@+id/txtTOSVersionNumber" 
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content" 
+					android:layout_weight="0"
+					android:layout_gravity="center"
+					android:background="@drawable/version_bgrnd" 
+					android:layout_centerHorizontal="true" 
+					android:layout_marginBottom="5dip" 
+					android:gravity="center"/>
+		</LinearLayout>
+		<Button 
+			android:id="@+id/btnDismissPopup" 
+			android:layout_height="wrap_content" 
+			android:layout_centerHorizontal="true" 
+			android:layout_width="wrap_content" android:layout_gravity="center_horizontal" android:layout_weight="0" android:background="@drawable/tos_btn_indicator"/>
+</LinearLayout>

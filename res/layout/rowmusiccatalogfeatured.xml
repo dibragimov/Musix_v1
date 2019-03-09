@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="wrap_content" android:layout_width="fill_parent" android:minHeight="40dip" android:orientation="horizontal" android:gravity="right|center_vertical">
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/imgMusicCatalogFeaturedArrow" android:background="@drawable/left_arrow" android:layout_marginLeft="10dip" android:layout_weight="0"></ImageView>
+<LinearLayout android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_weight="1" android:orientation="vertical" android:gravity="right"><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dip" android:gravity="right" android:id="@+id/txtMusicCatalogFeaturedName" android:text="Featured Text" android:textColor="#FFF" android:textStyle="bold" android:paddingLeft="3dip" android:paddingRight="3dip" android:layout_weight="1"></TextView><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/txtMusicCatalogFeaturedSubname" android:visibility="gone"></TextView>
+</LinearLayout>
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/imgMusicCatalogFeaturedIcon" android:layout_marginRight="10dip" android:layout_marginLeft="10dip" android:layout_weight="0"></ImageView>
+
+</LinearLayout>

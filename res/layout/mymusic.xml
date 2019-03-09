@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_weight="1" 
+	android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+  	<LinearLayout
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:id="@+id/panelMyMusicMain"
+	  	android:background="@drawable/my_music_header">
+		
+			
+			<TextView 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:text="@string/mymusiccaption" 
+				android:id="@+id/txtMyMusicCaption" 
+				android:textColor="#ffffffff" 
+				android:layout_gravity="center_horizontal|center_vertical"
+				android:layout_weight="1"
+				android:gravity="center"/>
+			<Button 
+				android:id="@+id/btnAbout" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:text="@string/mymusicabout"
+				android:layout_marginRight="10dip" android:layout_gravity="right|center_vertical" android:textColor="#ffffffff" android:background="@drawable/green_button_indicator"/>
+		
+	
+</LinearLayout>
+	<LinearLayout
+  		android:id="@+id/panelMyMusicAdditional"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:background="@drawable/my_music_header" android:visibility="gone">
+		
+			<ImageButton 
+				android:id="@+id/btnSearchAdditional" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:layout_marginLeft="10dip" android:layout_gravity="left|center_vertical" 
+				android:src="@drawable/magnifying_glass_icon" android:cropToPadding="true" 
+				android:paddingLeft="6dip" android:paddingTop="5dip" android:background="@drawable/green_button_indicator"/>
+			<Button 
+				android:text="@string/mymusic_btn_done"
+				android:layout_marginLeft="10dip"  
+				android:layout_gravity="left|center_vertical"
+				android:id="@+id/btnMyMusicDone" 
+				android:background="@drawable/green_button_indicator"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:visibility="gone" android:textColor="#ffffffff"/>
+			<TextView 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:text="@string/mymusicgenrecaption" 
+				android:id="@+id/txtMyMusicAdditionalCaption" 
+				android:textColor="#ffffffff" 
+				android:layout_gravity="center_horizontal|center_vertical"
+				android:layout_weight="1"
+				android:gravity="center"/>
+			<Button 
+				android:id="@+id/btnMyMusicGenresBack" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:text="@string/mymusicback"
+				android:layout_marginRight="10dip" android:layout_gravity="right|center_vertical" 
+				android:textColor="#ffffffff" android:background="@drawable/green_back_button_indicator"/>
+		
+	</LinearLayout>
+	<LinearLayout
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content" 
+	  	android:id="@+id/panelMyMusicSubPanel"
+	  	android:background="@drawable/my_music_sub_bar_for_gray_btn" android:visibility="gone">
+	  		
+			<ImageButton android:id="@+id/btnMyMusicShowAsList" 
+				android:layout_width="wrap_content" 
+		  		android:layout_height="wrap_content" 
+		  		android:background="@drawable/my_music_list_icon_selected" 
+		  		android:layout_gravity="center_vertical" 
+		  		android:layout_marginLeft="10dip"/>
+		  	<ImageView 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:layout_marginLeft="5dip" 
+				android:layout_gravity="center_vertical" 
+				android:background="@drawable/my_music_spartor_dot"/>
+			<ImageButton 
+				android:id="@+id/btnMyMusicShowAsGrid" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:background="@drawable/my_music_grid_icon_up" 
+				android:layout_gravity="center_vertical" 
+				android:layout_marginLeft="5dip"/>
+			<TextView 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:text="" 
+				android:textColor="#ffffffff" 
+				android:layout_gravity="center_horizontal|center_vertical"
+				android:layout_weight="1"
+				android:gravity="center"/>
+			
+	</LinearLayout>
+	<LinearLayout
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content" 
+	  	android:id="@+id/panelMyMusicEditSubPanel"
+	  	android:background="@drawable/my_music_sub_bar_for_gray_btn" android:visibility="gone">
+	  		<LinearLayout 
+	  			android:layout_height="wrap_content" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_gravity="center" android:id="@+id/panelEditButton" android:visibility="visible">
+			  		<TextView 
+						android:layout_width="wrap_content" 
+						android:layout_height="wrap_content" 
+						android:text="" 
+						android:textColor="#ffffffff" 
+						android:layout_gravity="center_horizontal|center_vertical"
+						android:layout_weight="1"
+						android:gravity="center"/>
+			  		<Button android:text="@string/mymusicedit" 
+						android:id="@+id/btnMyMusicSubBar" 
+						android:layout_height="wrap_content" 
+						android:layout_marginBottom="5dip"
+						android:layout_marginTop="5dip"
+						android:layout_width="wrap_content" 
+						android:layout_centerInParent="true"
+						android:layout_marginRight="10dip" android:layout_gravity="center_vertical" android:background="@drawable/gray_button_indicator"></Button>
+	  		</LinearLayout>
+	  		<Button android:id="@+id/btnMyMusicAddToPlaylist2goAll" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+		  		android:layout_gravity="center_vertical" 
+		  		android:layout_marginLeft="10dip" 
+		  		android:text="@string/mymusic_addto_playlist2go" 
+		  		android:paddingLeft="10dip" 
+		  		android:paddingRight="10dip" android:background="@drawable/gray_button_indicator"/>
+		  	<TextView 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:text="" 
+				android:textColor="#ffffffff" 
+				android:layout_gravity="center_horizontal|center_vertical"
+				android:layout_weight="1"
+				android:gravity="center"/>
+			<Button android:id="@+id/btnMyMusicDeleteAll" 
+				android:layout_height="wrap_content" 
+				android:layout_width="wrap_content" 
+				android:layout_marginRight="10dip" 
+				android:layout_gravity="center_vertical"
+				android:text="@string/mymusic_delete_all_songs" 
+				android:paddingLeft="10dip" 
+				android:paddingRight="10dip" android:background="@drawable/gray_button_indicator"/>
+	
+</LinearLayout>
+	<LinearLayout 
+		android:id="@+id/panelMyMusicSearch" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content" android:background="@drawable/my_music_sub_bar_for_gray_btn" android:visibility="gone">
+			<EditText 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:id="@+id/txtMyMusicSearch" android:drawableLeft="@drawable/search_bar_icon" android:drawablePadding="5dip" android:layout_marginLeft="25dip" android:layout_marginRight="25dip" android:layout_weight="1" android:paddingLeft="5dip" android:hint="Search" android:layout_gravity="center_vertical" android:layout_marginTop="2dip"/>
+	</LinearLayout>
+	
+	  	<ListView
+			android:id="@android:id/list"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_weight="1" 
+			android:divider="@drawable/my_music_separator" 
+			
+			android:choiceMode="singleChoice" android:background="@drawable/my_music_background" android:cacheColorHint="#00000000"/>
+	<GridView
+			android:id="@+id/grid"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_weight="1" 
+			android:drawSelectorOnTop="false"
+			android:background="@drawable/my_music_background" 
+			android:numColumns="4" android:stretchMode="spacingWidth" android:columnWidth="75px" android:visibility="gone"/>
+	
+
+</LinearLayout>

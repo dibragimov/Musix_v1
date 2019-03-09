@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response encryptionKey="0342" isEncrypted="1" milliseconds="1274779850894">
+	<loginResonse>
+		<status>SUCCESS</status>
+	</loginResonse>
+	<clientDataResponse>OK</clientDataResponse>
+	<sync>
+		<medias>
+			<userMedia albumID="21" artistID="292" createDate="1263313118172"
+				deleted="0" genreID="43" id="23663" isSynced="1" length="310"
+				mediaType="AUDIO" name="Muse Breaks" trackNumber="1" />
+			<userMedia albumID="1" artistID="472" createDate="1263313118172"
+				deleted="0" genreID="40" id="23664" isSynced="1" length="248"
+				mediaType="AUDIO" name="Carve" trackNumber="1" />
+			<userMedia albumID="654" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23711" isSynced="1" length="256"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Life Without You"
+				trackNumber="1" />
+			<userMedia albumID="277" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23710" isSynced="1" length="279"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Tightrope" trackNumber="1" />
+			<userMedia albumID="238" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23709" isSynced="1" length="144"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - The House Is Rockin'"
+				trackNumber="1" />
+			<userMedia albumID="581" artistID="472" createDate="1263313118172"
+				deleted="0" genreID="43" id="23708" isSynced="1" length="169"
+				mediaType="AUDIO" name="Me Inside (Corey Crowz Demo)" trackNumber="1" />
+			<userMedia albumID="85" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23707" isSynced="1" length="322"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Texas Flood"
+				trackNumber="1" />
+			<userMedia albumID="289" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23706" isSynced="1" length="214"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Taxman" trackNumber="1" />
+			<userMedia albumID="497" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23705" isSynced="1" length="220"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Pride And Joy"
+				trackNumber="1" />
+			<userMedia albumID="593" artistID="538" createDate="1263313118172"
+				deleted="0" genreID="64" id="23704" isSynced="1" length="409"
+				mediaType="AUDIO" name="Stevie Ray Vaughan - Little Wing"
+				trackNumber="1" />
+			<userMedia albumID="19" artistID="491" createDate="1263313118172"
+				deleted="0" genreID="64" id="23665" isSynced="1" length="292"
+				mediaType="AUDIO" name="Fly" trackNumber="1" />
+			<userMedia albumID="409" artistID="489" createDate="1263313118172"
+				deleted="0" genreID="46" id="23666" isSynced="1" length="439"
+				mediaType="AUDIO" name="Ra Heya (original)" trackNumber="1" />
+			<userMedia albumID="344" artistID="488" createDate="1263313118172"
+				deleted="0" genreID="43" id="23667" isSynced="1" length="411"
+				mediaType="AUDIO" name="Navigate into" trackNumber="1" />
+			<userMedia albumID="188" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23668" isSynced="1" length="204"
+				mediaType="AUDIO" name="How to Spell Heroin" trackNumber="1" />
+			<userMedia albumID="443" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23669" isSynced="1" length="220"
+				mediaType="AUDIO" name="Save Me the Last Waltz" trackNumber="1" />
+			<userMedia albumID="370" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23670" isSynced="1" length="196"
+				mediaType="AUDIO" name="Bizarre.Glam.GOD" trackNumber="1" />
+			<userMedia albumID="600" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23671" isSynced="1" length="232"
+				mediaType="AUDIO" name="Dope Army" trackNumber="1" />
+			<userMedia albumID="26" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23672" isSynced="1" length="238"
+				mediaType="AUDIO" name="Dead or Alive" trackNumber="1" />
+			<userMedia albumID="429" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23673" isSynced="1" length="208"
+				mediaType="AUDIO" name="Nightmare on Elm Street" trackNumber="1" />
+			<userMedia albumID="178" artistID="487" createDate="1263313118172"
+				deleted="0" genreID="27" id="23674" isSynced="1" length="195"
+				mediaType="AUDIO" name=
